@@ -1,0 +1,30 @@
+{
+  "name": "tgbottest",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "file-url": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "image-to-base64": "^2.2.0",
+    "imgbb-uploader": "^1.5.1",
+    "imgur": "^2.3.0",
+    "moment": "^2.29.4",
+    "mongoose": "^7.3.2",
+    "node-fetch": "^3.3.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^3.0.1",
+    "telegraf": "^4.12.2",
+    "tslib": "^2.6.0",
+    "underscore": "^1.13.6"
+  }
+}
